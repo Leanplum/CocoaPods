@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   s.documentation_url = 'https://www.leanplum.com/docs#/docs'
   s.source_files = 'LeanplumUIEditor.framework/Headers/*.h'
   s.public_header_files = 'LeanplumUIEditor.framework/Headers/*.h'
-  s.dependency 'Leanplum-iOS-SDK-static', '~> 2.0.1.1-45'
+  s.dependency 'Leanplum-iOS-SDK', '~> 2.0.1.1-45'
 end
